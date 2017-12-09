@@ -9,8 +9,8 @@
 #ifndef ADC_H_
 #define ADC_H_
 
-void adc_int(void);
+void adc_int(void);        //adc initialize
 
-void adc_start(unsigned char);
+void adc_start(unsigned char);   //adc start function
 
 #endif /* ADC_H_ */
