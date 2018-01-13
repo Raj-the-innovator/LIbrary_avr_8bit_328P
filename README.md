@@ -12,3 +12,6 @@ library for peripheral of 328p
 -pin change
 -lcd
 -usart
+-7 segment
+-SPI
+-I2C
